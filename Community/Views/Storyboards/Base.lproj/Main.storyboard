@@ -19,8 +19,8 @@
                         <color key="selectedImageTintColor" systemColor="systemRedColor"/>
                     </tabBar>
                     <connections>
-                        <segue destination="xZK-y5-zEU" kind="relationship" relationship="viewControllers" id="z02-KL-11K"/>
                         <segue destination="DtM-s7-P7d" kind="relationship" relationship="viewControllers" id="EC4-u8-7x5"/>
+                        <segue destination="xZK-y5-zEU" kind="relationship" relationship="viewControllers" id="z02-KL-11K"/>
                         <segue destination="IT4-Gc-wCH" kind="relationship" relationship="viewControllers" id="PTS-vy-czT"/>
                     </connections>
                 </tabBarController>
