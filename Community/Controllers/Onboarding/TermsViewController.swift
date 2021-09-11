@@ -1,13 +1,13 @@
 //
-//  RegisterViewController.swift
+//  TermsViewController.swift
 //  Community
 //
-//  Created by John Critchlow on 9/8/21.
+//  Created by John Critchlow on 9/10/21.
 //
 
 import UIKit
 
-class RegisterViewController: UIViewController {
+class TermsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -15,6 +15,4 @@ class RegisterViewController: UIViewController {
         view.backgroundColor = .systemBackground
     }
     
-
-
 }

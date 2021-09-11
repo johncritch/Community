@@ -1,20 +1,18 @@
 //
-//  RegisterViewController.swift
+//  PrivacyViewController.swift
 //  Community
 //
-//  Created by John Critchlow on 9/8/21.
+//  Created by John Critchlow on 9/10/21.
 //
 
 import UIKit
 
-class RegisterViewController: UIViewController {
+class PrivacyViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         view.backgroundColor = .systemBackground
     }
-    
-
 
 }
