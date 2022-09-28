@@ -11,5 +11,10 @@ public class StorageManager {
     
     static let shared = StorageManager()
     
+    private let bucket = Storage.storage().reference()
+    
     //MARK: -Public
+    
+    public func uploadUserEventPost(model: EventPost)
+    
 }
